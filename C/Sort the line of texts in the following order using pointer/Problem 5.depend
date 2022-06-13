@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652798145 source:g:\all semester\semester 12 (spring 2022)\cse103 structured programming\lab\lab 06\problem 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
